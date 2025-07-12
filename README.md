@@ -18,10 +18,6 @@
 - 🌐 Sieci komputerowe i systemy:
   * Administrator sieci komputerowych
   * Inżynier sieci w centrum danych
-  * Inżynier ds. bezpieczeństwa sieciowego
-  * Inżynier chmury
-  * Specjalista ds. infrastruktury IT
 
 - 🖥️ Technologie użytkowe:
   * Web Developer (HTML/CSS/JS)
-  * Automatyzacja procesów
