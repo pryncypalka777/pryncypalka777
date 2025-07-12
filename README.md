@@ -1,6 +1,6 @@
 # O mnie
 
-### Mam kilkuletnie doświadczenie informatyczne (2021-2025)
+### Kilkuletnie doświadczenie informatyczne (2021-2025)
 ### Moje specjalizacje:
 
 - 📊 Bazy danych i analiza danych:
