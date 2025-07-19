@@ -1,7 +1,7 @@
 <h1 align="center">O mnie</h1>
 
-### Kilkuletnie doświadczenie informatyczne (2021-2025)
-### Moje specjalizacje:
+<h3 align="center">Kilkuletnie doświadczenie informatyczne (2021-2025)</h3>
+<h3 align="center">Moje specjalizacje:</h3>
 
 - 📊 Bazy danych i analiza danych:
   * Programista baz danych / SQL Developer
