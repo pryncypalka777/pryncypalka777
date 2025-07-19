@@ -21,3 +21,6 @@
 
 - 🖥️ Technologie użytkowe:
   * Web Developer (HTML/CSS/JS)
+
+<h1 align="center"> </h1>
+<h3><a href="https://guns.lol/pryncypalka">guns.lol</h3></a> <h3><a href="https://t.me/prncplk">telegram</h3></a>
