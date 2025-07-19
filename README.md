@@ -1,4 +1,4 @@
-# O mnie
+<h1 align="center">O mnie</h1>
 
 ### Kilkuletnie doświadczenie informatyczne (2021-2025)
 ### Moje specjalizacje:
